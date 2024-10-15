@@ -1,5 +1,5 @@
 # heart-disease-prediction
-This is my submission for Data Science Nigeria (DSN) AI Bootcamp Hackaton 2024, can be found in this [repo](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2024-Qualification-Project-Participation-and-Hackathon/blob/main/ML%20with%20Azure-Python.md)
+This is my submission for Data Science Nigeria (DSN) AI Bootcamp Hackaton 2024, full details of the hackathon can be found in this [repo](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2024-Qualification-Project-Participation-and-Hackathon/blob/main/ML%20with%20Azure-Python.md)
 
 ## Overview
 This project aims to develop a predictive model for heart disease using machine learning techniques. The dataset includes various health-related features, and the goal is to predict the presence or absence of heart disease.
